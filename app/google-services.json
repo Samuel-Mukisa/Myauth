@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606116012990",
+    "project_id": "myauth-2a0dc",
+    "storage_bucket": "myauth-2a0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606116012990:android:7df3f4b66b238769e2cfef",
+        "android_client_info": {
+          "package_name": "com.mukisasamuel.myauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606116012990-q5hqhoeh0041penkvnsve505anjhahks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWbsnzQpThSitCRojkSZNwmRnE3mX4J7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606116012990-q5hqhoeh0041penkvnsve505anjhahks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
